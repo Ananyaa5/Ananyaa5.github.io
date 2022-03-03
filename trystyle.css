@@ -1,0 +1,18 @@
+body{
+    
+    background: url(./cycling.jpg);
+    background-repeat: no-repeat;
+     background-size: cover;
+     /* height: 100vh; */
+     margin: 0;
+     
+}
+
+#extra {
+    margin-top: 250px;
+    background: #a9b4b978;
+    width: 530px;
+    
+}
+
+
